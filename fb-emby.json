@@ -1,0 +1,10 @@
+{
+ "name": "emby",
+ "description": "By doudou",
+ "icons": [
+  {
+   "name": "emby",
+   "url": "https://raw.githubusercontent.com/opoute/emby/main/123.png"
+  }
+ ]
+}
