@@ -1,7 +1,14 @@
-{"name":"Emby Icons", 
-"description":"By twoz", 
-"icons":[
-    {"name":"Emby111", "url":"https://raw.githubusercontent.com/opoute/emby/main/sr.png"},
-    {"name":"Emby22", "url":"https://raw.githubusercontent.com/opoute/emby/main/v6.PNG"}
-        ]
+{
+	"name": "doudou",
+	"description": "By 1.0.25",
+	"icons": [
+		{
+			"name": "emby-v6",
+			"url": "https://raw.githubusercontent.com/opoute/emby/main/v6.PNG"
+		},
+		{
+			"name": "emby-sryy",
+			"url": "https://raw.githubusercontent.com/opoute/emby/main/sr.png"
+		}
+	]
 }
